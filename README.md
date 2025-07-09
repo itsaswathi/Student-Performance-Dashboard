@@ -14,6 +14,7 @@ Analyze student data to highlight performance trends and risk areas using:
 - Correlation heatmap of performance indicators
 - Bar chart for top vs struggling students
 - Scatterplot: Attendance vs Marks
+- Machine learning prediction using Random Forest
 
 ## 🧪 Dataset Columns
 - Student_ID
@@ -27,14 +28,16 @@ Analyze student data to highlight performance trends and risk areas using:
 - Pandas
 - Matplotlib
 - Seaborn
+- Scikit-learn
 
 ## 📈 Visuals
 - Heatmaps
 - Bar Charts
 - Scatter Plots
+- ML classification report
 
 ## 📝 Output
-An interactive dashboard-like visual report to help institutions make early interventions.
+An interactive dashboard-like visual report to help institutions make early interventions. Machine learning model predicts students at risk.
 
 ---
 
